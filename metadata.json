@@ -1,0 +1,5 @@
+{
+  "name": "Painel Cívico Cavalcante",
+  "description": "Um painel de dados interativo e ouvidoria para a cidade de Cavalcante, GO. Analisa dados municipais sobre saúde, educação, segurança e mais, usando IA para gerar insights para a gestão pública e permitir que os cidadãos forneçam feedback sobre os serviços.",
+  "requestFramePermissions": []
+}
